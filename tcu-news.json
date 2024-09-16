@@ -3,7 +3,7 @@ layout: none
 permalink: /tcu-news.json
 ---
 
-{% assign data = site.data.data.news_data %}
+{% assign data = site.data.data.tcu %}
 {% assign news_items = data.news | slice: 0, 10 %}
 
 {
