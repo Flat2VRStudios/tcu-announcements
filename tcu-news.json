@@ -1,10 +1,13 @@
+---
+layout: none
+permalink: /tcu-news.json
+---
+
+{% assign data = site.data.data.news_data %}
+{% assign news_items = data.news | slice: 0, 10 %}
+
 {
-	"version":1,
-	"timestamp":1725836400,
-	"news":[
-		{
-			"timestamp":1725836400,
-			"details":"Welcome to Trombone Champ Unflattened!"
-		}
-	]
+  "version": {{ data.version | jsonify }},
+  "timestamp": {{ data.timestamp | jsonify }},
+  "news": {{ news_items | jsonify }}
 }
