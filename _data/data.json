@@ -1,11 +1,11 @@
 {
   "tcu": {
     "version": 1,
-    "timestamp":1725836400,
-    "news":[
+    "timestamp": 1732633754,
+    "news": [
       {
-        "timestamp":1725836400,
-        "details":"Welcome to Trombone Champ Unflattened!"
+        "timestamp": 1732633754,
+        "details": "Thank you for playing Trombone Champ: Unflattened! We have a bunch of changes coming soon:\n\n- Tons of bug fixes!\n- Trombone calibration.\n- Support for more languages.\n- Improvements to visuals and performance.\n- Improved mixed reality (on platforms that support it).\n- New songs and environments.\n\nFind our full roadmap on <u>TC.FLAT2VRSTUDIOS.COM</u>"
       }
     ]
   }
