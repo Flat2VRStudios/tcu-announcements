@@ -1,0 +1,13 @@
+---
+layout: none
+permalink: /tcu-news-v2.json
+---
+
+{% assign data = site.data.data_v2.tcu %}
+{% assign news_items = data.news | slice: 0, 10 %}
+
+{
+  "version": {{ data.version | jsonify }},
+  "timestamp": {{ data.timestamp | jsonify }},
+  "news": {{ news_items | jsonify }}
+}
