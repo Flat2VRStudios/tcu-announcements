@@ -6,12 +6,17 @@
       {
         "timestamp": 1732633755,
         "platforms": "psvr2",
-        "details": "Version 01.010.372:\n\n- Fixed song previews not playing\n- Changed Turbo Mode Multiplier from 2x to 1.5x to make Too Turbo To Fail trophy more achievable"
+        "details": "Version 01.010.372:\n\n- Fixed song previews not playing.\n- Changed Turbo Mode Multiplier from 2x to 1.5x to make Too Turbo To Fail trophy more achievable."
       },
       {
         "timestamp": 1732633755,
-        "platforms": "all",
-        "details": "Thank you for playing Trombone Champ: Unflattened! We have a bunch of changes coming soon:\n\n- Tons of bug fixes!\n- Trombone calibration.\n- Support for more languages.\n- Improvements to visuals and performance.\n- Improved mixed reality (on platforms that support it).\n- New songs and environments.\n\nFind our full roadmap on <color=yellow><u>TC.FLAT2VRSTUDIOS.COM</u></color>\n<size=50%>(no you can't click this link, open it in a browser)</size>"
+        "platforms": "steam,psvr2",
+        "details": "Thank you for playing Trombone Champ: Unflattened! We have a bunch of changes coming soon:\n\n- Tons of bug fixes!\n- Trombone calibration.\n- Support for more languages.\n- Improvements to visuals and performance.\n- New songs and environments.\n\nFind our full roadmap on <color=yellow><u>TC.FLAT2VRSTUDIOS.COM</u></color>\n<size=50%>(no you can't click this link, open it in a browser)</size>"
+      },
+      {
+        "timestamp": 1732633755,
+        "platforms": "quest",
+        "details": "Thank you for playing Trombone Champ: Unflattened! We have a bunch of changes coming soon:\n\n- Tons of bug fixes!\n- Trombone calibration.\n- Support for more languages.\n- Improvements to visuals and performance.\n- Improved mixed reality.\n- New songs and environments.\n\nFind our full roadmap on <color=yellow><u>TC.FLAT2VRSTUDIOS.COM</u></color>\n<size=50%>(no you can't click this link, open it in a browser)</size>"
       }
     ]
   }
