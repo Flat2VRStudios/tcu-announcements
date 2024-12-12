@@ -1,12 +1,27 @@
 {
   "tcu": {
     "version": 2,
-    "timestamp": 1733234400,
+    "timestamp": 1733954400,
     "news": [
+      {
+        "timestamp": 1733954400,
+        "platforms": "quest",
+        "details": "<size=120%><b>Version 383:</b></size>\n\n<b>Changes:</b>\n- Fixed issue where sometimes only a limited amount of a users custom songs would appear on the song list.\n- Pause screen no longer comes up in free improv, instead going straight to the main menu.\n- New winter environment.\n\n<b>Bug Fixes:</b>\n- Fixed being able to grab pen/spray cans with the opposite hand while you're holding them, messing up the paint picker UI.\n- Updated appearance of campaign challenge progress indicators.\n- Improved the look of the final trombone you unlock in the campaign.\n- You can now move the mixed reality stage by re-centering your playspace.\n- Adjusted mixed reality note background color.\n- Brand new portal and higher quality environment in mixed reality.\n- Dynamic shadows for the main spotlight focused on the player.\n- New spray can models in trombone customization.\n- New textured spray can which you can use to recolor a trombone without changing the actual texture.\n- Improvements to how notes are synchronized with the music.\n- Notes now scroll in before the song starts instead of being present right when the curtains open."
+      },
+      {
+        "timestamp": 1733954400,
+        "platforms": "steam",
+        "details": "<size=120%><b>Version 382:</b></size>\n\n<b>Changes:</b>\n- Fixed issue where sometimes only a limited amount of a users custom songs would appear on the song list.\n- Pause screen no longer comes up in free improv, instead going straight to the main menu.\n- New winter environment.\n\n<b>Bug Fixes:</b>\n- Fixed being able to grab pen/spray cans with the opposite hand while you're holding them, messing up the paint picker UI.\n- Updated appearance of campaign challenge progress indicators.\n- Improved the look of the final trombone you unlock in the campaign.\n- Dynamic shadows for the main spotlight focused on the player.\n- New spray can models in trombone customization.\n- New textured spray can which you can use to recolor a trombone without changing the actual texture.\n- Improvements to how notes are synchronized with the music.\n- Notes now scroll in before the song starts instead of being present right when the curtains open."
+      },
+      {
+        "timestamp": 1733954400,
+        "platforms": "psvr2",
+        "details": "<size=120%><b>Version 01.010.382:</b></size>\n\n<b>Changes:</b>\n- Pause screen no longer comes up in free improv, instead going straight to the main menu.\n- New winter environment.\n\n<b>Bug Fixes:</b>\n- Fixed being able to grab pen/spray cans with the opposite hand while you're holding them, messing up the paint picker UI.\n- Updated appearance of campaign challenge progress indicators.\n- Improved the look of the final trombone you unlock in the campaign.\n- Dynamic shadows for the main spotlight focused on the player.\n- New spray can models in trombone customization.\n- New textured spray can which you can use to recolor a trombone without changing the actual texture.\n- Improvements to how notes are synchronized with the music.\n- Notes now scroll in before the song starts instead of being present right when the curtains open."
+      },
       {
         "timestamp": 1733234400,
         "platforms": "psvr2",
-        "details": "Version 01.010.372:\n\n- Fixed song previews not playing.\n- Changed Turbo Mode Multiplier from 2x to 1.5x to make Too Turbo To Fail trophy more achievable."
+        "details": "<size=120%><b>Version 01.010.372:</b></size>\n\n- Fixed song previews not playing.\n- Changed Turbo Mode Multiplier from 2x to 1.5x to make Too Turbo To Fail trophy more achievable."
       },
       {
         "timestamp": 1732633755,
