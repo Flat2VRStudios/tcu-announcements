@@ -1,8 +1,24 @@
 {
   "tcu": {
     "version": 2,
-    "timestamp": 1733954400,
+    "timestamp": 1734971400,
     "news": [
+      {
+        "timestamp": 1734971400,
+        "platforms": "quest",
+        "details": "<size=120%><b>Version 387:</b></size>\n\n<b>Changes:</b>\n- Improved Splash Screen.\n- Updated 1.5x Turbo mode with pitch shifting.\n- Fixed visual issues with the Leafblower Trombone.\n- Fixed Menu Music setting not saving between sessions.\n- Swapped 'Old Timey Toots' and 'Its a Bop' within the Campaign.\n- Fixed minor screen flashing on start-up.\n- Fixed the inability to pause at the very beginning of a level.\n- Fixed Active Stars within the Song List UI being squished on first open.\n- Fixed turbo mode lead-in stutter on the start of some songs.\n- Changes to Challenges within SkaBIRD and Jarabe Tapatío (Mexican Hat Dance).\n- Improved performance within the Winter Environment.\n- Fixed bug where Mozzarbella Trombone will be unlocked Twice as it was marked as a preorder trombone.\n- Fixed issue where your achieved Letter Rank can go down if you play a level from Simplified and again in Original.\n\n"
+      },
+      {
+        "timestamp": 1734971400,
+        "platforms": "steam",
+        "details": "<size=120%><b>Version 387:</b></size>\n\n<b>Changes:</b>\n- Updated 1.5x Turbo mode with pitch shifting.\n- Fixed visual issues with the Leafblower Trombone.\n- Fixed Menu Music setting not saving between sessions.\n- Swapped 'Old Timey Toots' and 'Its a Bop' within the Campaign.\n- Fixed minor screen flashing on start-up.\n- Fixed the inability to pause at the very beginning of a level.\n- Fixed Active Stars within the Song List UI being squished on first open.\n- Fixed turbo mode lead-in stutter on the start of some songs.\n- Changes to Challenges within SkaBIRD and Jarabe Tapatío (Mexican Hat Dance).\n- Improved performance within the Winter Environment.\n- Fixed issue where your achieved Letter Rank can go down if you play a level from Simplified and again in Original.\n\n"
+      },
+      {
+        "timestamp": 1734971400,
+        "platforms": "psvr2",
+        "details": "<size=120%><b>Version 01.010.387:</b></size>\n\n<b>Changes:</b>\n- Updated 1.5x Turbo mode with pitch shifting.\n- Fixed visual issues with the Leafblower Trombone.\n- Fixed Menu Music setting not saving between sessions.\n- Swapped 'Old Timey Toots' and 'Its a Bop' within the Campaign.\n- Fixed minor screen flashing on start-up.\n- Fixed the inability to pause at the very beginning of a level.\n- Fixed Active Stars within the Song List UI being squished on first open.\n- Fixed turbo mode lead-in stutter on the start of some songs.\n- Changes to Challenges within SkaBIRD and Jarabe Tapatío (Mexican Hat Dance).\n- Improved performance within the Winter Environment.\n- Fixed issue where your achieved Letter Rank can go down if you play a level from Simplified and again in Original.\n\n"
+      },
+
       {
         "timestamp": 1733954400,
         "platforms": "quest",
