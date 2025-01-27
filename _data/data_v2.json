@@ -1,8 +1,25 @@
 {
   "tcu": {
     "version": 2,
-    "timestamp": 1734971400,
+    "timestamp": 1737655200,
     "news": [
+      {
+        "timestamp": 1737655200,
+        "platforms": "quest",
+        "details": "<size=120%><b>Version 401:</b></size>\n\n<size=110%><b>Features:</b></size>\n\n<b>Outdoor Winter Environment</b>\n- New Environment with banners celebrating New Years\n\n<b>Custom Songs Update</b>\n- Custom Songs can be found within the 'Bonus Albums' tab of the campaign\n- New Free Custom Song 'Punch Em'\n- Delete Custom Levels button in Settings to delete any unwanted Custom Levels\n- 'Custom Levels Scan' button in Settings will scan your Meta Quest's Downloads folder and import any Custom Levels you downloaded from the headsets built-in browser.\n\n<b>New Trombones</b>\n- Koi Fish ('Finstrument')\n- Chinese New Years Red Letter ('Lunar Tooter')\n- Unicorn ('Uni-Tune')\n\nAdded a shortcut to the store (just select the Gramophone!)\n\n<size=110%><b>Changes:</b></size>\n\n- Renamed 'Simplified' Mode to 'Unflattened' Mode\n- Pitch Assist: Audio is pitched slightly towards where the note should be to make the player sound better\n- Change back button to bring you to the campaign menu instead of the main menu\n- Dynamic Trigger\n- Squeeze your trigger less to make your toots quieter\n\n<size=110%><b>Bug Fixes:</b></size>\n\n- Chicken Slide and Mouth Change in Shop.\n- Fixed All 50 Cards Collected Achievement\n- Fixed Leaf Trombone Paintained\n- Fixed latency offset not affecting the visuals\n- Improv zones now curve with the notes/lanes\n- Fixed campaign challenges disappearing when backing out to the full map and clicking a section again\n- Fixed only left lane appearing in free improv if it's opened before playing a song\n\n"
+      },
+      {
+        "timestamp": 1737655200,
+        "platforms": "steam",
+        "details": "<size=120%><b>Version 401:</b></size>\n\n<size=110%><b>Features:</b></size>\n\n<b>Outdoor Winter Environment</b>\n- New Environment with banners celebrating New Years\n\n<b>Custom Songs Update</b>\n- Custom Songs can be found within the 'Bonus Albums' tab of the campaign\n- New Free Custom Song 'Punch Em'\n- Delete Custom Levels button in Settings to delete any unwanted Custom Levels\n- 'Reload Custom Levels' button in Settings reloads your Custom Levels folder.\n\n<b>New Trombones</b>\n- Koi Fish ('Finstrument')\n- Chinese New Years Red Letter ('Lunar Tooter')\n- Unicorn ('Uni-Tune')\n\nAdded a shortcut to the store (just select the Gramophone!)\n\n<size=110%><b>Changes:</b></size>\n\n- Renamed 'Simplified' Mode to 'Unflattened' Mode\n- Pitch Assist: Audio is pitched slightly towards where the note should be to make the player sound better\n- Change back button to bring you to the campaign menu instead of the main menu\n- Dynamic Trigger\n- Squeeze your trigger less to make your toots quieter\n\n<size=110%><b>Bug Fixes:</b></size>\n\n- Chicken Slide and Mouth Change in Shop.\n- Fixed All 50 Cards Collected Achievement\n- Fixed Leaf Trombone Paintained\n- Fixed latency offset not affecting the visuals\n- Improv zones now curve with the notes/lanes\n- Fixed campaign challenges disappearing when backing out to the full map and clicking a section again\n- Fixed only left lane appearing in free improv if it's opened before playing a song\n\n"
+      },
+      {
+        "timestamp": 1737655200,
+        "platforms": "psvr2",
+        "details": "<size=120%><b>Version 01.010.402:</b></size>\n\n<size=110%><b>Features:</b></size>\n\n<b>Outdoor Winter Environment</b>\n- New Environment with banners celebrating New Years\n\n<b>New Trombones</b>\n- Koi Fish ('Finstrument')\n- Chinese New Years Red Letter ('Lunar Tooter')\n- Unicorn ('Uni-Tune')\n\nAdded a shortcut to the store (just select the Gramophone!)\n\n<size=110%><b>Changes:</b></size>\n\n- Renamed 'Simplified' Mode to 'Unflattened' Mode\n- Pitch Assist: Audio is pitched slightly towards where the note should be to make the player sound better\n- Change back button to bring you to the campaign menu instead of the main menu\n- Dynamic Trigger\n- Squeeze your trigger less to make your toots quieter\n\n<size=110%><b>Bug Fixes:</b></size>\n\n- Chicken Slide and Mouth Change in Shop.\n- Fixed All 50 Cards Collected Achievement\n- Fixed Leaf Trombone Paintained\n- Fixed latency offset not affecting the visuals\n- Improv zones now curve with the notes/lanes\n- Fixed campaign challenges disappearing when backing out to the full map and clicking a section again\n- Fixed only left lane appearing in free improv if it's opened before playing a song\n\n"
+      },
+
+
       {
         "timestamp": 1734971400,
         "platforms": "quest",
