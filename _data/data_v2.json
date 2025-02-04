@@ -1,8 +1,13 @@
 {
   "tcu": {
     "version": 2,
-    "timestamp": 1737655200,
+    "timestamp": 1738692000,
     "news": [
+      {
+        "timestamp": 1738692000,
+        "platforms": "all",
+        "details": "<size=120%><b>Version 406:</b></size>\n\n<b>Added Timed Unlock 'Cupid's Wild Picks'</b>\n- More information this week\n\n<b>Changed the 'New Years Outdoor Environment' to the 'Valentines Outdoor Environment'</b>\n- Added Valentines themed Outfits to Audience\n- Added Valentines themed background banners and elements\n- Fixed slight performance issue with the Outdoor Environment when the curtains are closed\n\n"
+      },
       {
         "timestamp": 1737655200,
         "platforms": "quest",
